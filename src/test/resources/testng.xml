@@ -4,7 +4,7 @@
 	<test name="Test1">
 		<parameter name="path" value="/"/>
 		<classes>
-		    <class name="ru.stqa.selenium.HomePageTest"/>
+		    <class name="ru.stqa.selenium.Login_Test"/>
 		</classes>
 	</test>  
 </suite>
