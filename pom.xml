@@ -62,9 +62,9 @@
   <profiles>
   
     <profile>
-      <id>local</id>
+      <id>firefox_local</id>
       <properties>
-        <env>firefox_local</env>
+        <env>local</env>
         <user.username></user.username>
         <user.password></user.password>
         <grid2.hub></grid2.hub>
@@ -80,9 +80,9 @@
   
   
     <profile>
-      <id>local</id>
+      <id>chrome_local</id>
       <properties>
-        <env>chrome_local</env>
+        <env>local</env>
         <user.username></user.username>
         <user.password></user.password>
         <grid2.hub></grid2.hub>
